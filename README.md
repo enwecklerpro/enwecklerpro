@@ -21,9 +21,9 @@ Purchase requests with four-eyes approval, supplier offers and purchase orders, 
 CDS → RAP business object (managed, draft, validations, actions) → OData V4 → Fiori Elements, with ABAP Unit tests.\
 `ABAP Cloud` `RAP` `CDS` `OData V4` `Fiori Elements` · In development, published when complete
 
-**DecisionCore AI** — explainable, rule-based decision support on SAP BTP\
+**[DecisionCore AI](https://github.com/enwecklerpro/decisioncore-ai)** — explainable, rule-based decision support on SAP BTP\
 Configurable rules engine with optional AI scoring and a traceable score breakdown for every decision.\
-`SAP CAP` `CDS` `SAPUI5` `XSUAA` · Prototype, being prepared for publication
+`SAP CAP` `CDS` `SAPUI5` `XSUAA` · Prototype
 
 ### SAP certifications
 
