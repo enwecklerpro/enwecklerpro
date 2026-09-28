@@ -3,9 +3,9 @@
 **Junior SAP Developer** · ABAP Cloud · RAP · CDS · OData V4 · SAP Fiori · SAP BTP\
 Background in software development and industrial automation · Dortmund, Germany
 
-I build SAP applications end to end — from the CDS data model through RAP business objects and
-OData services to the Fiori UI — and I build tooling around SAP delivery: static analysis,
-Clean Core checks and transport and integration preflights.
+I build SAP applications end to end — CDS data model, SAP CAP services on SAP BTP, OData V4 and
+the UI — and I am currently building a RAP application on ABAP Cloud. I also build tooling around
+SAP delivery: static analysis, Clean Core checks and transport and integration preflights.
 
 ### Featured projects
 
