@@ -9,6 +9,10 @@ Clean Core checks and transport and integration preflights.
 
 ### Featured projects
 
+**[OmniTrade](https://github.com/enwecklerpro/omnitrade)** — multi-tenant procure-to-pay application on SAP BTP\
+Purchase requests with four-eyes approval, supplier offers and purchase orders, five roles, audit log and a data-grounded AI assistant.\
+`SAP CAP` `CDS` `OData V4` `HANA Cloud` `XSUAA` `React` · Running on SAP BTP · [UI demo](https://omnitrade.sbs)
+
 **[ERP Preflight](https://github.com/enwecklerpro/erppreflight)** — deterministic preflight analysis for SAP changes\
 19 engines for Clean Core, integrations, transports and operations; every finding points to file, line and SHA-256.\
 `TypeScript` `Next.js` `NestJS` `Python` `PostgreSQL` `Docker` · Active development · [erppreflight.com](https://erppreflight.com)
@@ -30,7 +34,7 @@ Configurable rules engine with optional AI scoring and a traceable score breakdo
 
 ### Tech stack
 
-**SAP:** ABAP Cloud · RAP · CDS · OData V4 · Fiori Elements · SAPUI5 · SAP CAP · SAP BTP (Cloud Foundry, XSUAA)\
+**SAP:** ABAP Cloud · RAP · CDS · OData V4 · Fiori Elements · SAPUI5 · SAP CAP · SAP HANA Cloud · SAP BTP (Cloud Foundry, XSUAA)\
 **Engineering:** TypeScript · Node.js · Python · PostgreSQL · Docker · GitHub Actions · Git
 
 ### Contact
