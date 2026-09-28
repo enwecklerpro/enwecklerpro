@@ -13,7 +13,7 @@ SAP delivery: static analysis, Clean Core checks and transport and integration p
 Purchase requests with four-eyes approval, supplier offers and purchase orders, five roles, audit log and a data-grounded AI assistant.\
 `SAP CAP` `CDS` `OData V4` `HANA Cloud` `XSUAA` `React` · Running on SAP BTP · [UI demo](https://omnitrade.sbs)
 
-**[ERP Preflight](https://github.com/enwecklerpro/erppreflight)** — deterministic preflight analysis for SAP changes\
+**[ERP Preflight](https://github.com/enwecklerpro/erppreflight-showcase)** — deterministic preflight analysis for SAP changes\
 19 engines for Clean Core, integrations, transports and operations; every finding points to file, line and SHA-256.\
 `TypeScript` `Next.js` `NestJS` `Python` `PostgreSQL` `Docker` · Active development · [erppreflight.com](https://erppreflight.com)
 
